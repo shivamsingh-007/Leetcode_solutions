@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
