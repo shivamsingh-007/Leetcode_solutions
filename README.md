@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
