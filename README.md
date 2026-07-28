@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
