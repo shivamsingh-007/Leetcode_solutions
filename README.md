@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0789-escape-the-ghosts](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0789-escape-the-ghosts](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0789-escape-the-ghosts) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -152,9 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
