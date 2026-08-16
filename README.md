@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0507-perfect-number) |
@@ -176,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
@@ -204,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0015-3sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
