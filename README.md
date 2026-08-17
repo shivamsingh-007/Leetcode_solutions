@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0709-to-lower-case](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0709-to-lower-case) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
