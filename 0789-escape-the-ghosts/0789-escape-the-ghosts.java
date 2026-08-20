@@ -4,6 +4,6 @@ class Solution {
         for (int[] g: ghosts)
             if (d >= Math.abs(t[0] - g[0]) + Math.abs(t[1] - g[1]))
                 return false;
-        return true;
+        return true;  
     }
 }
