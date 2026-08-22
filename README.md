@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
