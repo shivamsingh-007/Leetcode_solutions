@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0015-3sum) |
+| [0151-reverse-words-in-a-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
