@@ -14,9 +14,10 @@ class Solution {
                     row.add(leftParent + rightParent);
                 }
             }
-            arr.add(row);
+            arr.add(row) ;
         }
         
+
         return arr;   
     }
 }
