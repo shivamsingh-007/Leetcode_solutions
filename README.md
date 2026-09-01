@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
