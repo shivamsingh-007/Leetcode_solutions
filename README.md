@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0709-to-lower-case) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -314,4 +315,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Tree
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
