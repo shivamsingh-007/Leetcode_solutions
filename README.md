@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Bracket Sequences
 |  |
