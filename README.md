@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -357,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
