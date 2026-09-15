@@ -23,4 +23,6 @@ int value(char c){
     }
     
     return total;
+
+
 }
