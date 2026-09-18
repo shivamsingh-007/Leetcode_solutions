@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
