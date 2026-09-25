@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
