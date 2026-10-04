@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 ## Backtracking
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
