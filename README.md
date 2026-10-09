@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0051-n-queens) |
 | [1096-brace-expansion-ii](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/shivamsingh-007/Leetcode_solutions/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
